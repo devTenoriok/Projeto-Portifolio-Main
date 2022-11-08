@@ -250,3 +250,10 @@ i.menu-mobile{
     background-color: #fff;
     border-radius: 50%;
 }
+
+
+#carouselPortfolio .carousel-indicators{
+    margin-bottom: -50px;
+}
+
+
